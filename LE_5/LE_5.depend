@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727613433 source:c:\users\brylle cortes\desktop\coding projects\le_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
